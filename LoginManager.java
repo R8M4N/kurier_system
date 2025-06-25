@@ -1,10 +1,10 @@
 import java.sql.*;
 
 public class LoginManager {
-    private static final String SERVER = "serwer2469155.home.pl";
-    private static final String USERNAME = "38759356_studia";
-    private static final String PASSWORD = "omijamdriftembiede888";
-    private static final String DATABASE = "38759356_studia";
+    private static final String SERVER = "";
+    private static final String USERNAME = "";
+    private static final String PASSWORD = "";
+    private static final String DATABASE = "";
     private static final String PORT = "3380";
     
     private static final String URL = "jdbc:mysql://" + SERVER + ":" + PORT + "/" + DATABASE 
